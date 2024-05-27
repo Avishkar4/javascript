@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    color: green;
+    border: 2px solid rgb(19, 63, 19);
+}
+body {
+    color:rgb(53, 117, 53);
+    background: rgb(232, 253, 232);
+}
+div { 
+    text-align: center;
+    color: green;
+
+}
+ button{
+    background-color: rgb(187, 238, 202);
+ }
+ button:hover {
+    background-color: rgb(70, 209, 70);
+ }
